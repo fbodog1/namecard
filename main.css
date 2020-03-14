@@ -98,6 +98,13 @@ img:hover {
   transform: scale(1.1);
 }
 
+
+#like_button_container{
+ 
+  color:red;
+
+}
+
 .profile-card {
   background-color: hsla(0, 0%, 100%, .5);
   border-radius: 10px;
